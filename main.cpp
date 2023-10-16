@@ -78,4 +78,5 @@ int main(int argc, char **argv)
     view.show();
 
     return app.exec();
+    # dummy line to trigger GitHub Actions/Workflows
 }
